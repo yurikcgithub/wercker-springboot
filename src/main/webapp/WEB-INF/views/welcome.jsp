@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="css/cloud3.css">
 
-<title>Oracle Public Cloud Demo</title>
+<title>Oracle Public Cloud Demo For YuriKC</title>
 
 </head>
 <body>
@@ -36,7 +36,7 @@
 
       <div class="blueBannerHeading">
         <h1 class="blueBannerTitleWithSubtitle">
-          <a style="color: #ffffff">Oracle Container Cloud Service + Wercker</a>
+          <a style="color: #a00ff5">Oracle Container Cloud Service + Wercker</a>
         </h1>
       </div>
 
